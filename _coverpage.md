@@ -1,5 +1,5 @@
 
-![logo](./images/human.png)
+![logo](//cdn.jsdelivr.net/gh/greycodee/design-patterns-wiki/images/human.png)
 
 # 设计模式 <small>Java 版</small>
 

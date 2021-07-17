@@ -1,7 +1,27 @@
 * 设计原则
-    * [工厂方法](doc/creative/factory.md "工厂方法模式")
+    * [面向对象程序设计原则](doc/design_principles.md "面向对象程序设计原则")
 * 创造型模式
-
+    * [工厂方法模式](doc/creative/factory_method.md)
+    * [抽象工厂模式](doc/creative/factory.md)
+    * [建造者模式](doc/creative/factory.md)
+    * [原型模式](doc/creative/factory.md)
+    * [单例模式](doc/creative/factory.md)
 * 结构型模式
-
+    * [适配器模式](doc/struct/exp.md)
+    * [桥接模式](doc/struct/exp.md)
+    * [装饰模式](doc/struct/exp.md)
+    * [外观模式](doc/struct/exp.md)
+    * [享元模式](doc/struct/exp.md)
+    * [代理模式](doc/struct/exp.md)
 * 行为型模式
+    * [责任链模式](doc/behave/exp.md)
+    * [命令模式](doc/behave/exp.md)
+    * [解释权模式](doc/behave/exp.md)
+    * [迭代器模式](doc/behave/exp.md)
+    * [中介者模式](doc/behave/exp.md)
+    * [备忘录模式](doc/behave/exp.md)
+    * [观察者模式](doc/behave/exp.md)
+    * [状态模式](doc/behave/exp.md)
+    * [策略模式](doc/behave/exp.md)
+    * [模版方法模式](doc/behave/exp.md)
+    * [访问者模式](doc/behave/exp.md)
