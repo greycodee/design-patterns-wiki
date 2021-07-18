@@ -1,4 +1,5 @@
-* 设计原则
+* 准备工作
+    * [UML箭头的含义](doc/uml_arrow.md "UML箭头的含义")
     * [面向对象程序设计原则](doc/design_principles.md "面向对象程序设计原则")
 * 创造型模式
     * [工厂方法模式](doc/creative/factory_method.md)
